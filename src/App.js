@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import { useState } from 'react';
-
+import { ListKontak } from "./components";
 
 function App() {
-  const [name, setName] = useState("Tirta")
   return (
-    <div className="App">
-      <h2>Aplikasi Kontak {name}</h2>
+    <div style={{ padding: '30px' }}>
+      <h2>Aplikasi Kontak</h2>
+      <hr/>
+      <ListKontak></ListKontak>
     </div>
   );
 }

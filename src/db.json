@@ -1,0 +1,14 @@
+{
+    "kontaks": [
+        {
+            "id": 1,
+            "nama": "Nurul Jaelani",
+            "nohp": "0878232413"
+        },
+        {
+            "id": 2,
+            "nama": "Adhim Ghozali",
+            "nohp": "08934232475"
+        }
+    ]
+}
